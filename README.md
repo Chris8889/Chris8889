@@ -38,7 +38,7 @@
 
 ## Activity
 
-![snk](https://raw.githubusercontent.com/Chris8889/Chris8889/github-snake.svg)
+![snk](https://raw.githubusercontent.com/Chris8889/Chris8889/main/github-snake.svg)
 
 ## Stats
 
