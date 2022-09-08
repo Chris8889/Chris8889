@@ -35,3 +35,17 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 - Version Control:  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Activity
+
+![snk](https://raw.githubusercontent.com/Chris8889/Chris8889/github-snake.svg)
+
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=chris8889&show_icons=true&theme=github_dark)  
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chris8889&theme=github-dark)  
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=chris8889&theme=github_dark&layout=compact)  
+
+Powered by [Shields.io](https://github.com/badges/shields), [Markdown Badges](https://github.com/Ileriayo/markdown-badges), [snk](https://github.com/Platane/snk), [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), and [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
